@@ -10,6 +10,9 @@
   - [Polymorphism](cheatsheets/polymorphism.js)
   - [Classes](cheatsheets/classes.js)
   - [Modules](cheatsheets/modules.js)
+- [Courses](courses)
+  - [Slam Dunk JavaScript - Wes Bos](https://beginnerjavascript.com/)
+  - [30 Day Vanilla JS Challenge - Wes Bos](https://javascript30.com/)
 
 * [Code Snippets](snippets)
 
